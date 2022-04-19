@@ -13,7 +13,7 @@
 
 <br>
 <p>
-    <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aliyyaps&show_icons=true&include_all_commits=true" alt="Anurag's github stats" /> 
+    <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aliyyaps&show_icons=true&include_all_commits=true&&theme=material" alt="Anurag's github stats" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyyaps&layout=compact" height=180 />
 </p>
 
