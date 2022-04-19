@@ -22,8 +22,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aliyyaps)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliyya-putri-a8aaa8221/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aliyyaps08y@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6287758674026)
-[![Instagram](https://img.shields.io/badge/-Instagram-F08080?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aliyyaptrs/)
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/fadilahonespot/fadilahonespot.svg" />
 
 <!--
