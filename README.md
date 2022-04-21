@@ -12,10 +12,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-F0F8FF?style=flat&logo=MySQL)&nbsp;
 
 <br>
-<p>
-    <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aliyyaps&show_icons=true&include_all_commits=true&&theme=material" alt="Anurag's github stats" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyyaps&layout=compact" height=180 />
-</p>
+
+<img align="left" alt="aliyyaps's github stats" src="https://github-readme-stats.vercel.app/api?username=aliyyaps&show_icons=true&hide_border=true&theme=default&hide=stars"/>
+<img align="centre" alt="aliyyaps's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyyaps&theme=default&hide_border=true&layout=compact"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
