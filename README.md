@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aliyya!
+<h1 align="center"> Hi there 👋, I'm Aliyya! </h1>
 
 ### 🔭 I'm currently studying at the Polytechnic State of Malang
 
